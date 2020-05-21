@@ -1,14 +1,81 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Products": [
+    {
+      "name": "Doms",
+      "quantity": 12,
+      "price": 12,
+      "uuid": "1f393b4c-f9fc-4fdd-bbb0-5a177bf92111",
+      "id": 1
+    },
+    {
+      "name": "Rey",
+      "quantity": 15,
+      "price": 10,
+      "uuid": "2330b5e4-5689-4c7d-8482-50d56028b490",
+      "id": 2
+    },
+    {
+      "name": "The Akchemist",
+      "quantity": 5,
+      "price": 10,
+      "uuid": "4a020b56-d249-4ea4-92d3-8df740a85747",
+      "id": 3
+    },
+    {
+      "name": "Dawns",
+      "quantity": 45,
+      "price": 100,
+      "uuid": "1108a850-b906-4c60-bb54-48c99ae2da80",
+      "id": 4
+    },
+    {
+      "name": "Hoobla",
+      "quantity": 14,
+      "price": 150,
+      "uuid": "5d5ca487-fd10-46d2-8437-08c61571c903",
+      "id": 5
+    },
+    {
+      "name": "Tata",
+      "quantity": 10,
+      "price": 15,
+      "uuid": "d0762512-5e20-4fde-917d-266bd9eccd8b",
+      "id": 6
+    },
+    {
+      "name": "Doms Qa",
+      "quantity": 15,
+      "price": 10,
+      "uuid": "004cd749-0aba-407c-b13c-39c4c2354eb7",
+      "id": 7
+    },
+    {
+      "name": "The Ak",
+      "quantity": 15,
+      "price": 100,
+      "uuid": "e8023213-06d8-4562-8046-3b5420accab8",
+      "id": 8
+    },
+    {
+      "name": "Daw",
+      "quantity": 11,
+      "price": 11,
+      "uuid": "2ff8a5e2-3062-41c2-a370-6c03c5c1f5c2",
+      "id": 9
+    },
+    {
+      "name": "Doms",
+      "quantity": 15,
+      "price": 20,
+      "uuid": "6886030b-fe8b-43c6-955f-0539a2bb5e36",
+      "id": 10
+    },
+    {
+      "name": "Doms",
+      "quantity": 15,
+      "price": 20,
+      "uuid": "47814ed1-c8d0-4bec-8e98-0f2d7339b9b9",
+      "id": 11
+    }
+  ]
 }
